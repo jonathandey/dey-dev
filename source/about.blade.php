@@ -19,7 +19,7 @@
     </p>
 
     <p class="mb-6">
-        I have been programming for over 20 years. Mostly programming in PHP my software engineering career began working on a mafia themed MMORPG when I was in Secondary School.
+        I have been programming for over 20 years. Mostly programming in PHP my software engineering career began from working on a mafia themed MMORPG when I was in Secondary School.
     </p>
 
     <p class="mb-6">
