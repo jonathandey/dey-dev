@@ -15,7 +15,7 @@ Recently a customer asked if I could configure SAML authentication between their
 
 ## Engineering a solution
 
-SAML is an authentication protocol commonly used to provide an SSO solution for companies with similar problem to my customer - there are [plenty of good articles](https://auth0.com/blog/how-saml-authentication-works/) around the web [about SAML](https://developers.onelogin.com/saml), for that reason I won't be going in to how SAML works here, instead I'll just be focusing on how to use your OctoberCMS site as a SAML Identity Provider.
+SAML is an authentication protocol commonly used to provide an SSO solution for companies with similar problems to my customer - there are [plenty of good articles](https://auth0.com/blog/how-saml-authentication-works/) around the web [about SAML](https://developers.onelogin.com/saml), for that reason I won't be going in to how SAML works here, instead I'll just be focusing on how to use your OctoberCMS site as a SAML Identity Provider.
 
 OctoberCMS provides a very good [User plugin](https://octobercms.com/plugin/rainlab-user), but at the time of writing there is no SAML Server or SAML Identity Provider plugin. The SAML solution this article provides will require you have the User plugin installed on your site.
 
