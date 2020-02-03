@@ -9,7 +9,7 @@ published: true
 featured: false
 ---
 
-*This page will be updated periodically. It was last updated in December 2019.*
+*This page will be updated periodically. It was last updated in February 2020.*
 
 ### Mac programs
 
@@ -34,5 +34,6 @@ featured: false
 * [ouch](https://icons8.com/ouch) - Free Vector Illustrations to Class up Your Project
 * [manypixels](https://www.manypixels.co/gallery/) - [royalty-free illustrations](https://www.manypixels.co/gallery/license/) to power up your projects
 * [Unsplash](https://unsplash.com/) - The internet’s source of freely usable images
+* [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - Unobtrusive background patterns
 
 Do you hve something to add? [File a bug on Github](https://github.com/jonathandey/dey-dev)
